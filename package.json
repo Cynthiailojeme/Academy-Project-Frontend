@@ -1,0 +1,35 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@progress/kendo-grid-vue-wrapper": "^2019.3.917",
+    "@progress/kendo-theme-default": "^4.3.3",
+    "@progress/kendo-ui": "^2019.3.927",
+    "core-js": "^2.6.5",
+    "dateformat": "^3.0.3",
+    "moment": "^2.24.0",
+    "vue": "^2.6.10",
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.0.3",
+    "vue-social-sharing": "^2.4.6",
+    "vue-sweetalert2": "^2.1.1",
+    "vue-timeago": "^5.1.2",
+    "vue2-timepicker": "^1.0.0",
+    "vuejs-countdown": "^0.2.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^3.11.0",
+    "@vue/cli-plugin-eslint": "^3.11.0",
+    "@vue/cli-service": "^3.11.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.16.0",
+    "eslint-plugin-vue": "^5.0.0",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
